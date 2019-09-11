@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f6ba049f-d15b-47b9-a836-25b6404b6436",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "alien-stare": {
+      "ver": "1.0.3",
+      "uuid": "2198e38a-e8b4-4afa-9b53-9cc4c3ae87bd",
+      "rawTextureUuid": "f6ba049f-d15b-47b9-a836-25b6404b6436",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 63,
+      "trimY": 21,
+      "width": 386,
+      "height": 473,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
